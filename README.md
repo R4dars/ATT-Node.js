@@ -10,4 +10,4 @@ _Projeto criado para a matéria de Códigos de Alta Performance Web. Atividade d
 <https://github.com/R4dars>
 
 ## Andamento do Projeto 🎯
-*Finalizado*
+**Finalizado**
